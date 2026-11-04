@@ -1,9 +1,9 @@
 {
-  "versionCode": 4,
-  "versionName": "1.0.3",
-  "apkUrl": "https://ribhavjain22.github.io/sipling-android-updates/apks/sipling-4-d961e7a5fef5aef932cf8446089881b098c71d9a7a1eb53ec2d2a55a655edea5.apk",
-  "sha256": "d961e7a5fef5aef932cf8446089881b098c71d9a7a1eb53ec2d2a55a655edea5",
-  "size": 8918846,
+  "versionCode": 5,
+  "versionName": "1.0.4",
+  "apkUrl": "https://ribhavjain22.github.io/sipling-android-updates/apks/sipling-5-c1f249d2f4133e39824ff71e021208456d9405f15861299939e4da765112a987.apk",
+  "sha256": "c1f249d2f4133e39824ff71e021208456d9405f15861299939e4da765112a987",
+  "size": 8919730,
   "packageName": "com.ribhav.sipling",
   "minSdk": 26
 }
